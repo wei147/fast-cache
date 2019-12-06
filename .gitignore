@@ -41,4 +41,6 @@ gen/
 
 node_modules/
 
+_book
+
 README.html
